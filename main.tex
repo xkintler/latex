@@ -1,12 +1,39 @@
 \documentclass{article}
 
-\usepackage[UTF8]{inputenc}
+\usepackage[utf8]{inputenc}
 \usepackage[slovak]{babel}
 \usepackage[T1]{fontenc}
-\usepackage{xcolor}
+\usepackage{url}
+\usepackage[hidelinks]{hyperref}
 \usepackage{graphicx}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{float}
 \usepackage{amsmath}
+\usepackage{xcolor}
 
 \begin{document}
-	content...
+	\section{Praktická časť práce}
+	\subsection{Použitie Eulerovho vzorca}
+	\quad\quad V teoretickej časti práce som uviedol tvar Eulerovho vzorca (rovnica~\ref{eq:Euler}),ktorý by mal platiť pre všetky uvedené pravidelné mnohosteny. Tento vzorec predstavuje vzťah medzi počtom vrcholov, počtom hrán a počtom plôch daného pravidelného mnohostena. Taktiež som poukázal na to, že existuje práve päť pravidelných mnohostenov (štvorsten, šesťsten, osemsten, dvanásťsten a dvadsaťsten). Aby som mohol použiť Eulerov vzorec ({\color{red}tu možno čiarka?}) potrebujem poznať všetky parametre, ktoré vystupujú v danom vzorci ({\color{red}tu možno čiarka?}) pre všetky pravidelné mnohosteny (Tabuľka ? - {\color{red}číslo tabuľky, kde sú uvedené parametre pre jednotlivé mnohosteny}). 
+	
+	Použitie Eulerovho vzorca poukážem na kocke (pravidelný šesťsten),nakoľko tento objekt je pomerne jednoduchým a zrozumiteľným príkladom pravidelných mnohostenov. Takže z Tabuľky {\color{red}?} vyplýva, že kocka má osem vrcholov ($V$ = 8), dvanásť strán ($E$ = 12) a šesť rovných plôch ($F$ = 6). Keď dosadím dané parametre do Eulerovho vzorca dostanem: 
+	\begin{equation}
+	V-E+F=2 \quad \rightarrow \quad 8-12+6=2 \quad \rightarrow \quad 2=2
+	\label{eq:Euler}
+	\end{equation}
+	Z riešenia rovnice (\ref{eq:Euler}) vyplýva, že Eulerov vzorec je platný pre pravidelný šesťsten, nakoľko ľavá strana rovnice sa rovná pravej strane rovnice.
+	
+	Následne môžem aplikovať Eulerov vzorec aj pre ostatné pravidelné mnohosteny. Výsledky z použitia Eulerovho vzorca pre všetky pravidelné mnohosteny sú uvedené v Tabuľke 1 ({\color{red}pokračuj v číslovaní tabuľky tam, kde si skončil}).
+	
+	
+	Sem pride tabulka1
+	
+	\noindent
+	Z uvedených výsledkov v tabuľke 1 vyplýva, že Eulerov vzorec platí pre všetky uvedené pravidelné mnohosteny. V nasledujúcich analýzach pravidelných mnohostenov môžme teda vychádzať z toho, že jedna z podmienok, ktoré musí pravidelný mnohosten spĺňať je práve platnosť Eulerovho vzorca.
+	
+	
+	
+	
+	
 \end{document}
