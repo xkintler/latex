@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.25)  11 DEC 2019 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.25)  11 DEC 2019 10:56
 entering extended mode
 **./main.tex
 (main.tex
@@ -328,25 +328,36 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-) (main.aux)
+)
+("C:\Users\Matej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
+\col@sep=\dimen126
+\ar@mcellbox=\box31
+\extrarowheight=\dimen127
+\NC@list=\toks24
+\extratabsurround=\skip47
+\backup@length=\skip48
+\ar@cellbox=\box32
+)
+(main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-\AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 15.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
+LaTeX Font Info:    ... okay on input line 17.
+\AtBeginShipoutBox=\box33
+Package hyperref Info: Link coloring OFF on input line 17.
 
 ("C:\Users\Matej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -358,9 +369,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count118
 )
-LaTeX Info: Redefining \ref on input line 15.
-LaTeX Info: Redefining \pageref on input line 15.
-LaTeX Info: Redefining \nameref on input line 15.
+LaTeX Info: Redefining \ref on input line 17.
+LaTeX Info: Redefining \pageref on input line 17.
+LaTeX Info: Redefining \nameref on input line 17.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
@@ -370,16 +381,16 @@ LaTeX Info: Redefining \nameref on input line 15.
 df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count119
-\scratchdimen=\dimen126
-\scratchbox=\box32
+\scratchdimen=\dimen128
+\scratchbox=\box34
 \nofMPsegments=\count120
 \nofMParguments=\count121
-\everyMPshowfont=\toks24
+\everyMPshowfont=\toks25
 \MPscratchCnt=\count122
-\MPscratchDim=\dimen127
+\MPscratchDim=\dimen129
 \MPnumerator=\count123
 \makeMPintoPDFobject=\count124
-\everyMPtoPDFconversion=\toks25
+\everyMPtoPDFconversion=\toks26
 )
 ("C:\Users\Matej\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
 base.sty"
@@ -403,12 +414,12 @@ Package caption Info: End \AtBeginDocument code.
 
 Package hyperref Warning: Composite letter `\textasciicaron+c'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 16.
+(hyperref)                removing `\textasciicaron' on input line 18.
 
 
 Package hyperref Warning: Composite letter `\textasciicaron+t'
 (hyperref)                not defined in PD1 encoding,
-(hyperref)                removing `\textasciicaron' on input line 16.
+(hyperref)                removing `\textasciicaron' on input line 18.
 
 (content/sec_1_1_text1.tex
 Overfull \hbox (2.02527pt too wide) in paragraph at lines 1--2
@@ -417,32 +428,52 @@ ca (rov-nica []1[]),ktorý
  []
 
 ) (content/table.tex
-Overfull \hbox (12.85211pt too wide) in paragraph at lines 4--13
+Overfull \hbox (14.85214pt too wide) in paragraph at lines 4--13
 [][] 
  []
 
-)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 22.
- [1
+) (content/subsection12.tex [1
 
 {C:/Users/Matej/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 22.
+<images/dividing_faces.jpg, id=31, 261.97874pt x 113.67468pt>
+File: images/dividing_faces.jpg Graphic file (type jpg)
+<use images/dividing_faces.jpg>
+Package pdftex.def Info: images/dividing_faces.jpg  used on input line 11.
+(pdftex.def)             Requested size: 276.00105pt x 119.7626pt.
+<images/triangular_faces.jpg, id=32, 260.47313pt x 118.94438pt>
+File: images/triangular_faces.jpg Graphic file (type jpg)
+<use images/triangular_faces.jpg>
+Package pdftex.def Info: images/triangular_faces.jpg  used on input line 20.
+(pdftex.def)             Requested size: 276.00105pt x 126.03687pt.
+<images/cube_triangular_faces.jpg, id=33, 360.59718pt x 203.25937pt>
+File: images/cube_triangular_faces.jpg Graphic file (type jpg)
+<use images/cube_triangular_faces.jpg>
+Package pdftex.def Info: images/cube_triangular_faces.jpg  used on input line 3
+9.
+(pdftex.def)             Requested size: 345.0pt x 194.46616pt.
 
-(main.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 22.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 22.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[2 <./images/dividing_faces.jpg> <./images/triangular_faces.jpg>])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 25.
+ [3 <./images/cube_triangular_faces.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 25.
+ (main.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 25.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 25.
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: F6D3399C81268FA2511F6FBA326C1783;139.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 22.
+(rerunfilecheck)             Checksum: FB6B1F18F1BA6FE96830D030289449CD;213.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 25.
  ) 
 Here is how much of TeX's memory you used:
- 8129 strings out of 492895
- 120750 string characters out of 3123735
- 231519 words of memory out of 3000000
- 11968 multiletter control sequences out of 15000+200000
- 8716 words of font info for 22 fonts, out of 3000000 for 9000
+ 8216 strings out of 492895
+ 122180 string characters out of 3123735
+ 232454 words of memory out of 3000000
+ 12033 multiletter control sequences out of 15000+200000
+ 10250 words of font info for 24 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,10n,39p,808b,340s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,10n,39p,808b,371s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Matej\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 ecbx1000.pk> <C:\Users\Matej\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/
 ec/dpi600\ecrm1000.pk> <C:\Users\Matej\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour
@@ -452,9 +483,9 @@ s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Matej/AppData/
 Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Ma
 tej/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 >
-Output written on main.pdf (1 page, 71179 bytes).
+Output written on main.pdf (3 pages, 133729 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 6 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 225 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 40 words of extra memory for PDF output out of 10000 (max. 10000000)
 
